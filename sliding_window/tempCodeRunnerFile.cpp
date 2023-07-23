@@ -1,0 +1,1 @@
+s.substr(i,w.length())
